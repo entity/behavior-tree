@@ -1,0 +1,11 @@
+{
+  "name": "behavior-tree",
+  "version": "0.0.1",
+  "description": "create behavior trees",
+  "keywords": [],
+  "author": "stagas",
+  "license": "MIT",
+  "dependencies": {},
+  "development": {},
+  "scripts": ["index.js"]
+}
